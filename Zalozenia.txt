@@ -1,0 +1,10 @@
+1 -> pomoc
+2:tekst -> pokaz tekst na LCD
+3 -> wyslij jednorazowo stan joysticka
+4 -> wlacz stream joysticka
+5 -> wylacz stream joysticka
+6 -> pokaz dane autora na LCD
+7 -> wyczysc LCD
+
+Tytul projektu:
+Interaktywny sterownik mikrokontrolerowy z wyswietlaczem LCD, joystickiem i komunikacja Bluetooth.

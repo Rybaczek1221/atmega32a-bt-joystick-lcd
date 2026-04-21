@@ -1,0 +1,10 @@
+.venv/
+.venv-1/
+__pycache__/
+*.o
+*.elf
+*.hex
+*.map
+*.eep
+*.lst
+*.obj
