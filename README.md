@@ -58,10 +58,5 @@ Opis repozytorium: Projekt z przedmiotu Interfejsy cyfrowe realizowany na mikrok
 - modul Bluetooth BTM222B
 - serwomechanizm sterowany z Timer1
 
-## Uwagi sprzetowe
 
-Finalna wersja projektu korzysta z linii LCD na porcie B. Wczesniejsze warianty robocze mialy inne mapowanie pinow, ale wersja repo odpowiada koncowemu, dzialajacemu ukladowi przygotowanemu do sprawozdania i prezentacji.
 
-## Dalsze uzupelnienia
-
-Do repo mozna pozniej dodac zdjecia ukladu, screeny z terminala Bluetooth oraz finalny schemat blokowy lub schemat polaczen z draw.io.
